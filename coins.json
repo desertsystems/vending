@@ -1,0 +1,58 @@
+[
+  {
+    "option": 1,
+    "label": "1p",
+    "type": "PENCE",
+    "value": 0.01,
+    "reset": 100
+  },
+  {
+    "option": 2,
+    "label": "2p",
+    "type": "TWO_PENCE",
+    "value": 0.02,
+    "reset": 100
+  },
+  {
+    "option": 3,
+    "label": "5p",
+    "type": "FIVE_PENCE",
+    "value": 0.05,
+    "reset": 100
+  },
+  {
+    "option": 4,
+    "label": "10p",
+    "type": "TEN_PENCE",
+    "value": 0.1,
+    "reset": 100
+  },
+  {
+    "option": 5,
+    "label": "20p",
+    "type": "TWENTY_PENCE",
+    "value": 0.2,
+    "reset": 100
+  },
+  {
+    "option": 6,
+    "label": "50p",
+    "type": "FIFTY_PENCE",
+    "value": 0.5,
+    "reset": 100
+  },
+  {
+    "option": 7,
+    "label": "£1",
+    "type": "POUND",
+    "value": 1,
+    "reset": 100
+  },
+  {
+    "option": 8,
+    "label": "£2",
+    "type": "TWO_POUND",
+    "value": 2,
+    "reset": 100
+  }
+]
