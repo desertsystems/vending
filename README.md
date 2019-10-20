@@ -101,7 +101,6 @@ Design decisions
 ---
 1. Coin object was modelled, rather than using an enum, so the coins can be defined externally via properties file or via coins.json (run parameter).
 2. Strategy pattern was used to remove a sum of coins from the machine. The algorithm can be changed from properties file and new algorithms can be implemented in the future.
-3. The client code is packed in with the API code for spring config simplicity and time restriction. Otherwise it would be developed as a different project (external to the API code).
 
 Coin file
 ---
